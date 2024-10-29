@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋
+### Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=1FF773&multiline=true&width=435&height=180&lines=nc+-Environment+Setup;listening+on+%5BRandom%5D+8080+...;connecting+to+%5BMrTomXxX%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;MrTomXxX%40profile%3A~%24+.%2Fexploit;..............................;............Success!............;..............................;..............................;..............................;..............................;..............................;)](https://git.io/typing-svg)
 
