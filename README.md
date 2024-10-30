@@ -314,15 +314,15 @@ If you have any questions about web development, writing mistake-free documentat
   
 <!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/MTXPr0ject/MTXPr0ject/main/.images/terminal.gif" width="400" height="400">
+<img src="https://raw.githubusercontent.com/MTXPr0ject/MTXPr0ject/main/images/terminal.gif" width="400" height="400">
   
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
-<!--📰RSS / TAKE IMAGE FROM https://github.com/MTXPr0ject/MTXPr0ject/blob/main/.images/marquee.svg TO YOUR REPO AND EDIT IT-->
+<!--📰RSS / TAKE IMAGE FROM https://github.com/MTXPr0ject/MTXPr0ject/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
-<img src="https://raw.githubusercontent.com/MTXPr0ject/MTXPr0ject/main/.images/marquee.svg">
+<img src="https://raw.githubusercontent.com/MTXPr0ject/MTXPr0ject/main/images/marquee.svg">
   
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
 <p align="center">
@@ -365,9 +365,9 @@ STARTS_HERE_QUOTE_README
 <i>❝There is a website called “The Useless Web” . This is the last treatment for your boredom. If you ever feel bored please visit.❞</i>
 ENDS_HERE_QUOTE_README
 
-<!--📰RSS / TAKE IMAGE FROM https://github.com/MTXPr0ject/MTXPr0ject/blob/main/.images/marquee.svg TO YOUR REPO AND EDIT IT-->
+<!--📰RSS / TAKE IMAGE FROM https://github.com/MTXPr0ject/MTXPr0ject/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
-<img src="https://raw.githubusercontent.com/MTXPr0ject/MTXPr0ject/main/.images/marquee2.svg">
+<img src="https://raw.githubusercontent.com/MTXPr0ject/MTXPr0ject/main/images/marquee2.svg">
   
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -385,7 +385,7 @@ ENDS_HERE_QUOTE_README
   
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=D3vil0per&color=0E9C47&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=MTXPr0ject&color=0E9C47&style=for-the-badge">
   
 
   
@@ -544,8 +544,8 @@ Athena OS</a>
    <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </tr>
   <tr>
-    <td><p align="center"><a href="https://github.com/D3vil0per?tab=stars"><b>MY STARRED REPOS <br>AND TOPICS</b></a>
-    <td><p align="center"><a href="https://github.com/D3vil0per/D3vil0per/edit/main/README.md"><b>FORK PROFILE WITH <br>EASY EDITING</b></a>
+    <td><p align="center"><a href="https://github.com/MTXPr0ject?tab=stars"><b>MY STARRED REPOS <br>AND TOPICS</b></a>
+    <td><p align="center"><a href="https://github.com/MTXPr0ject/MTXPr0ject/edit/main/README.md"><b>FORK PROFILE WITH <br>EASY EDITING</b></a>
   </tr>
  </table>
     
@@ -569,7 +569,7 @@ Athena OS</a>
 <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
  
 <!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/D3vil0per/D3vil0per/main/.images/footer.svg" width="100%">
+<img src="https://raw.githubusercontent.com/MTXPr0ject/MTXPr0ject/main/images/footer.svg" width="100%">
 <!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
