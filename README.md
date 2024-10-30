@@ -237,7 +237,7 @@
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:kkapgate5@gmail.com">contact me by email</a>, I won't bite, I promise.
+If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:mrtomxxx3@gmail.com">contact me by email</a>, I won't bite, I promise.
 
   </td>
   <td width="50%" valign="top">
@@ -274,7 +274,7 @@ If you have any questions about web development, writing mistake-free documentat
   
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
-<a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
+<a href="https://www.youtube.com/watch?v=wL8DVHuWI7Y"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
   
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
@@ -286,7 +286,7 @@ If you have any questions about web development, writing mistake-free documentat
   
 <!--🖼️SVG BANNER I LOVE HACKING / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
 <p align="center">
-<img src="https://github.com/D3vil0per/D3vil0per/raw/main/.images/banner.svg"  width="600"> 
+<img src="https://github.com/MTXPr0ject/MTXPr0ject/raw/main/images/banner.svg"  width="600"> 
   
 <!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
 <p align="center">
