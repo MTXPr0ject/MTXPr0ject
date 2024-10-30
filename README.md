@@ -22,11 +22,9 @@
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
   
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/platane/snk -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MTXPr0ject/MTXPr0ject/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MTXPr0ject/MTXPr0ject/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MTXPr0ject/MTXPr0ject/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+<img src="https://raw.githubusercontent.com/MTXPr0ject/MTXPr0ject/refs/heads/main/storage/github-user-contribution.svg">
+</p>
   
 <!-- 📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MTXPr0ject&theme=chartreuse-dark" width="100%">
@@ -36,7 +34,7 @@
 <details><summary><b>𝓟&nbsp;𝓡&nbsp;𝓞&nbsp;𝓕&nbsp;𝓘&nbsp;𝓛&nbsp;𝓔&nbsp;&nbsp; 𝓜&nbsp;𝓔&nbsp;𝓣&nbsp;𝓡&nbsp;𝓘&nbsp;𝓒&nbsp;𝓢<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px></b></summary>
 <p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/MTXPr0ject/MTXPr0ject/refs/heads/main/storage/github-user-contribution.svg">
+<img src="https://raw.githubusercontent.com/MTXPr0ject/MTXPr0ject/refs/heads/main/storage/github-metrics.svg">
 </p>
 </details>
   
