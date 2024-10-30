@@ -13,21 +13,17 @@
 <!--🖼️OCTOCAT-->
 <p align="center">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
-
-<!--🌯GITHUBWRAPPED / 🌐https://github.com/neat-run/wrapped -->
-<p align="center">
-<a href="https://trinib.wrapped.run"><b>GitHub Wrapped</b></a>
   
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=D3vil0p3r&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=D3vil0p3r&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+<img src="https://mrtomxxx-readme.vercel.app/api?username=MTXPr0ject&show_icons=true&theme=merko">
   
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=D3vil0p3r&layout=compact&theme=merko">
+<img src="https://mrtomxxx-readme.vercel.app/api/top-langs/?username=MTXPr0ject&layout=compact&theme=merko">
   
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Athena-OS&repo=athena&theme=merko">
+<img src="https://mrtomxxx-readme.vercel.app/api/pin/?username=Athena-OS&repo=athena&theme=merko">
 
 &nbsp;
   
@@ -37,13 +33,13 @@
   
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MTXPr0ject/MTXPr0ject/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MTXPr0ject/MTXPr0ject/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MTXPr0ject/MTXPr0ject/output/github-contribution-grid-snake.svg" />
 </picture>
   
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=D3vil0p3r&theme=chartreuse-dark" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MTXPr0ject&theme=chartreuse-dark" width="100%">
   
 <!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
 <!--<h4 align="right">
@@ -301,7 +297,7 @@ Athena OS</a>
 </h4>
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=D3vil0p3r&theme=matrix&no-frame=true&row=1&&margin-w=30&no-bg=true">
+<img src="https://github-profile-trophy.vercel.app/?username=MTXPr0ject&theme=matrix&no-frame=true&row=1&&margin-w=30&no-bg=true">
 <!--🖼️⭐🔱STARRED/FORK-->
 <h4 align="right">
  
