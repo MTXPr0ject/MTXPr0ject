@@ -298,7 +298,7 @@ If you have any questions about web development, writing mistake-free documentat
   
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
-<a href="https://www.youtube.com/watch?v=wL8DVHuWI7Y"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
+<a href="https://www.youtube.com/watch?v=wL8DVHuWI7Y"><img src="https://raw.githubusercontent.com/MTXPr0ject/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
   
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
@@ -314,15 +314,15 @@ If you have any questions about web development, writing mistake-free documentat
   
 <!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/terminal.gif" width="400" height="400">
+<img src="https://raw.githubusercontent.com/MTXPr0ject/MTXPr0ject/main/.images/terminal.gif" width="400" height="400">
   
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
-<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/.images/marquee.svg TO YOUR REPO AND EDIT IT-->
+<!--📰RSS / TAKE IMAGE FROM https://github.com/MTXPr0ject/MTXPr0ject/blob/main/.images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg">
+<img src="https://raw.githubusercontent.com/MTXPr0ject/MTXPr0ject/main/.images/marquee.svg">
   
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
 <p align="center">
@@ -365,9 +365,9 @@ STARTS_HERE_QUOTE_README
 <i>❝There is a website called “The Useless Web” . This is the last treatment for your boredom. If you ever feel bored please visit.❞</i>
 ENDS_HERE_QUOTE_README
 
-<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/.images/marquee.svg TO YOUR REPO AND EDIT IT-->
+<!--📰RSS / TAKE IMAGE FROM https://github.com/MTXPr0ject/MTXPr0ject/blob/main/.images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee2.svg">
+<img src="https://raw.githubusercontent.com/MTXPr0ject/MTXPr0ject/main/.images/marquee2.svg">
   
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -375,13 +375,13 @@ ENDS_HERE_QUOTE_README
   
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
 <p align="center">
-<a href="https://stackoverflow.com/users/14602915/trinib"><img src="https://github-readme-stackoverflow.vercel.app/?userID=14602915&theme=dark">
+<a href="https://stackoverflow.com/users/14602915/MTXPr0ject"><img src="https://github-readme-stackoverflow.vercel.app/?userID=14602915&theme=dark">
   
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges -->
 <p align="center">
-  <a href="https://github.com/trinib?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/trinib"/></a><a href="https://github.com/trinib?tab=followers"><a href="https://github.com/trinib?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/trinib?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+  <a href="https://github.com/MTXPr0ject?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/MTXPr0ject"/></a><a href="https://github.com/MTXPr0ject?tab=followers"><a href="https://github.com/MTXPr0ject?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/MTXPr0ject?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
   
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
@@ -440,14 +440,14 @@ ENDS_HERE_QUOTE_README
 <!-- <h2 align="center">
 Join the Word Cloud Board :cloud: :pencil2:
 
-### :thought_balloon: <a href="https://github.com/trinib/word-cloud/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E"><b>Add your name</b></a> to see the word cloud update in real time :rocket:
+### :thought_balloon: <a href="https://github.com/MTXPr0ject/word-cloud/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E"><b>Add your name</b></a> to see the word cloud update in real time :rocket:
 
-:star2: Don't like the arrangement? <a href="https://github.com/trinib/word-cloud/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle"><b>Regenerate it</b></a> :game_die:
+:star2: Don't like the arrangement? <a href="https://github.com/MTXPr0ject/word-cloud/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle"><b>Regenerate it</b></a> :game_die:
 
 <h3 align="center">
 📛Github Usernames📛 
 </br> 
-<img src="https://raw.githubusercontent.com/trinib/word-cloud/main/wordcloud/wordcloud.png" alt="WordCloud" width="100%"> -->
+<img src="https://raw.githubusercontent.com/MTXPr0ject/word-cloud/main/wordcloud/wordcloud.png" alt="WordCloud" width="100%"> -->
   
 
 <p align="center">
