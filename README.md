@@ -39,18 +39,18 @@
 </details>
   
 <!--🖼️RICK-->
-<!-- <p align="center">
-<img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370"> -->
+<p align="center">
+<img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
   
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
-<!--🖼️ILOVEOPENSOURCE-->
-<!-- <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600"> -->
+<!-- 🖼️ILOVEOPENSOURCE-->
+<img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
   
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
-<!--<p align="center">
-<a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a> -->
+<p align="center">
+<a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
   
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
@@ -61,24 +61,24 @@
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/party-stub.gif" height="150" width="150">
   
 <!--🖼️SVG BANNER I LOVE HACKING / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
-<!-- <p align="center">
-<img src="https://github.com/D3vil0per/D3vil0per/raw/main/.images/banner.svg"  width="600">  -->
+<p align="center">
+<img src="https://github.com/D3vil0per/D3vil0per/raw/main/.images/banner.svg"  width="600"> 
   
 <!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
-<!-- <p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/terminal.gif" width="400" height="400"> -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/terminal.gif" width="400" height="400">
   
 <!--📏LINE-->
-<!-- <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/.images/marquee.svg TO YOUR REPO AND EDIT IT-->
-<!-- <p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg"> -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg">
   
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
-<!-- <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f"> -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
   
 <!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
 <h4 align="center">
@@ -107,42 +107,42 @@
 </h4>
 
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
-<!-- <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f"> -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
 
 <!--💬🃏FUNFACT / 🌐https://github.com/siddharth2016/quote-readme#update-your-readme -->
-<!-- <p align="center">
-<b>FUN FACT🤔 :</b> -->
-<!--STARTS_HERE_QUOTE_README-->
-<!-- <i>❝There is a website called “The Useless Web” . This is the last treatment for your boredom. If you ever feel bored please visit.❞</i> -->
-<!--ENDS_HERE_QUOTE_README-->
+<p align="center">
+<b>FUN FACT🤔 :</b>
+STARTS_HERE_QUOTE_README
+<i>❝There is a website called “The Useless Web” . This is the last treatment for your boredom. If you ever feel bored please visit.❞</i>
+ENDS_HERE_QUOTE_README
 
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/.images/marquee.svg TO YOUR REPO AND EDIT IT-->
-<!-- <p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee2.svg"> -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee2.svg">
   
 <!--📏LINE-->
-<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
  
   
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
-<!-- <p align="center">
-<a href="https://stackoverflow.com/users/14602915/trinib"><img src="https://github-readme-stackoverflow.vercel.app/?userID=14602915&theme=dark"> -->
+<p align="center">
+<a href="https://stackoverflow.com/users/14602915/trinib"><img src="https://github-readme-stackoverflow.vercel.app/?userID=14602915&theme=dark">
   
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/trinib?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/trinib"/></a><a href="https://github.com/trinib?tab=followers"><a href="https://github.com/trinib?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/trinib?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a> -->
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/trinib?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
   
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<!-- <p align="center">
-<img src="https://komarev.com/ghpvc/?username=D3vil0per&color=0E9C47&style=for-the-badge"> -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=D3vil0per&color=0E9C47&style=for-the-badge">
   
 
   
 <!--📏LINE-->
-<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
 <!--🤣JOYEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <!-- <p align="center">
