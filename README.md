@@ -361,9 +361,7 @@ If you have any questions about web development, writing mistake-free documentat
 <!--💬🃏FUNFACT / 🌐https://github.com/siddharth2016/quote-readme#update-your-readme -->
 <p align="center">
 <b>FUN FACT🤔 :</b>
-STARTS_HERE_QUOTE_README
 <i>❝There is a website called “The Useless Web” . This is the last treatment for your boredom. If you ever feel bored please visit.❞</i>
-ENDS_HERE_QUOTE_README
 
 <!--📰RSS / TAKE IMAGE FROM https://github.com/MTXPr0ject/MTXPr0ject/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
@@ -458,54 +456,9 @@ Join the Word Cloud Board :cloud: :pencil2:
 <!--🤔PROJECTSTITLE Used https://textanim.com/ with font PressStart2P-Regular-->
 <p align="center">
 <img src="https://i.ibb.co/QPmHs8r/projects.gif">
-
-<!--🤔ATHENA-->
-<h1 align="center"><a href="https://github.com/Athena-OS/athena-nix">Dive into a new Pentesting Experience with<br>
-Athena OS</a>
-</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-CD8335">
-  <img src="https://badgen.net/github/release/Athena-OS/athena">
-  <a href="https://sourceforge.net/projects/athena-iso/files/latest/download"><img alt="Download Athena OS" src="https://img.shields.io/sourceforge/dt/athena-iso?style=flat&logo=sourceforge&label=SourceForge" ></a>
-  <a href="https://github.com/Athena-OS/athena/releases"><img alt="Download Athena OS" src="https://img.shields.io/github/downloads/Athena-OS/athena/total?style=flat&logo=github&label=GitHub"></a>
-  <img src="https://badgen.net/github/stars/Athena-OS/athena">
-  <img src="https://img.shields.io/github/issues-raw/Athena-OS/athena">
-  <img src="https://img.shields.io/github/issues-closed-raw/Athena-OS/athena">
-  <img src="https://img.shields.io/github/license/Athena-OS/athena">
-</p>
-
-<p align="center">
-  <a href="https://www.instagram.com/athenaos_sec">
-    <img src="https://img.shields.io/badge/Follow%20us%20on%20Instagram-Ya?logo=instagram&logoColor=white&color=%23e95950&style=['for-the-badge']&url=https://www.instagram.com/athenaos_sec">
-    </a>
-  <a href="https://discord.gg/AHXqyJHhGc">
-    <img src="https://img.shields.io/badge/Join%20on%20Discord-Ya?logo=discord&logoColor=white&color=%235865F2&style=['for-the-badge']&url=https://discord.gg/AHXqyJHhGc">
-  </a>
-</p>
+	
 <p align="center">
   <img src="https://user-images.githubusercontent.com/83867734/174499581-e0f74d41-36ce-4c01-af0d-6ecd98841a64.png" data-canonical-src="https://user-images.githubusercontent.com/83867734/174499581-e0f74d41-36ce-4c01-af0d-6ecd98841a64.png" width="600" height="496" />
-</p>
-
-<p>
-<h3 align="center">
-  🏅Born for InfoSec Professionals, Bug Bounty Hunters, Passionate Students and Spicy Hackers🏅
-</h3>
-
-<h3 align="center">
-  💞
-  <a href="https://github.com/Athena-OS/athena-nix/releases">
-  Download Athena OS "Nyx" Now
-    </a>
-  💞
-</h3>
-
-<h3 align="center">
-  🎥
-  <a href="https://www.youtube.com/watch?v=4_ZY9Tj4U_8">
-  Spicy Pentesting OS Demo
-    </a>
-   🎥
-</h3>
 </p>
 
 &nbsp;
@@ -575,7 +528,7 @@ Athena OS</a>
 <!--RECENT_ACTIVITY:end-->
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i>: <b>Monday, September 5th, 2022, 1:56:38 PM</b>
+<i>Last refresh</i>: <b>Monday, September 5th, 2024, 1:56:38 PM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
   
 
